@@ -1,6 +1,6 @@
 # Vue-Pwa app: tt-toe
 ### Demo:
-#### https://gutnivlad.github.io/tt-toe/
+#### https://gutnidev.github.io/tt-toe/
 
 
 ------------
